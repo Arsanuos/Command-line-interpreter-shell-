@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1507770920 source:/media/arsanuos/42096389-e9a4-4305-beb5-98c32730190b/OS/Session_1_material/assignment1/shell/Shell/command_parser.c
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	"command_parser.h"
+	"expression.h"
+	"StringHandler.h"
+	"file_processing.h"
+	<stdio.h>
+
+1507769449 /media/arsanuos/42096389-e9a4-4305-beb5-98c32730190b/OS/Session_1_material/assignment1/shell/Shell/command_parser.h
+
+1507771336 source:/media/arsanuos/42096389-e9a4-4305-beb5-98c32730190b/OS/Session_1_material/assignment1/shell/Shell/commands.c
+	"commands.h"
+	<stdio.h>
+	<unistd.h>
+	<string.h>
+	"command_parser.h"
+	"variables.h"
+	"StringHandler.h"
+	"file_processing.h"
+	"expression.h"
+	<stdlib.h>
+
+1507771304 /media/arsanuos/42096389-e9a4-4305-beb5-98c32730190b/OS/Session_1_material/assignment1/shell/Shell/commands.h
+
+1507771545 source:/media/arsanuos/42096389-e9a4-4305-beb5-98c32730190b/OS/Session_1_material/assignment1/shell/Shell/environment.c
+	"environment.h"
+	<string.h>
+	<ctype.h>
+	"command_parser.h"
+	<stdio.h>
+	"file_processing.h"
+	<unistd.h>
+
+1507555987 /media/arsanuos/42096389-e9a4-4305-beb5-98c32730190b/OS/Session_1_material/assignment1/shell/Shell/environment.h
+
+1507768756 source:/media/arsanuos/42096389-e9a4-4305-beb5-98c32730190b/OS/Session_1_material/assignment1/shell/Shell/file_processing.c
+	"file_processing.h"
+	<stdio.h>
+
+1507770833 /media/arsanuos/42096389-e9a4-4305-beb5-98c32730190b/OS/Session_1_material/assignment1/shell/Shell/file_processing.h
+	<stdio.h>
+
+1507773518 source:/media/arsanuos/42096389-e9a4-4305-beb5-98c32730190b/OS/Session_1_material/assignment1/shell/Shell/main.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<signal.h>
+	<wait.h>
+	"environment.h"
+	"StringHandler.h"
+	"command_parser.h"
+	"expression.h"
+	"variables.h"
+	"commands.h"
+	"execute.h"
+	"file_processing.h"
+
+1507767267 source:/media/arsanuos/42096389-e9a4-4305-beb5-98c32730190b/OS/Session_1_material/assignment1/shell/Shell/variables.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"variables.h"
+
+1507399031 /media/arsanuos/42096389-e9a4-4305-beb5-98c32730190b/OS/Session_1_material/assignment1/shell/Shell/variables.h
+
+1507775894 source:/media/arsanuos/42096389-e9a4-4305-beb5-98c32730190b/OS/Session_1_material/assignment1/shell/Shell/execute.c
+	<stdio.h>
+	<wait.h>
+	<sys/types.h>
+	<unistd.h>
+	<string.h>
+	<signal.h>
+	"execute.h"
+	"environment.h"
+	"command_parser.h"
+	"variables.h"
+	"file_processing.h"
+	<stdlib.h>
+
+1507771400 /media/arsanuos/42096389-e9a4-4305-beb5-98c32730190b/OS/Session_1_material/assignment1/shell/Shell/execute.h
+
+1507769755 /media/arsanuos/42096389-e9a4-4305-beb5-98c32730190b/OS/Session_1_material/assignment1/shell/Shell/StringHandler.h
+
+1507702573 source:/media/arsanuos/42096389-e9a4-4305-beb5-98c32730190b/OS/Session_1_material/assignment1/shell/Shell/stringHandler.c
+	<string.h>
+
+1507771616 source:/media/arsanuos/42096389-e9a4-4305-beb5-98c32730190b/OS/Session_1_material/assignment1/shell/Shell/expression.c
+	"command_parser.h"
+	"expression.h"
+	<string.h>
+	<stdio.h>
+	<ctype.h>
+	"StringHandler.h"
+	"variables.h"
+	"expression.h"
+
+1507770659 /media/arsanuos/42096389-e9a4-4305-beb5-98c32730190b/OS/Session_1_material/assignment1/shell/Shell/expression.h
+

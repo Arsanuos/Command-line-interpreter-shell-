@@ -1,0 +1,525 @@
+directory changed to /home/arsanuos
+Instruction ls fetched
+Child process was terminated.
+Instruction ls executed.
+Instruction ls -al fetched
+Child process was terminated.
+Instruction ls -al executed.
+Instruction ls -a -l fetched
+Child process was terminated.
+Instruction ls -a -l executed.
+Instruction /bin/ls -l -a fetched
+Child process was terminated.
+Instruction /bin/ls -l -a executed.
+Instruction /bin/ls     -l fetched
+Child process was terminated.
+Instruction /bin/ls     -l executed.
+Instruction  fetched
+Instruction  fetched
+Instruction HOME=65 fetched
+Instruction HOME=65 executed.
+Instruction PATH =345 fetched
+Instruction PATH =345 executed.
+Instruction  fetched
+Instruction  fetched
+Instruction ps fetched
+Child process was terminated.
+Instruction ps executed.
+Instruction bin/ps fetched
+Child process was terminated.
+Instruction bin/ps executed.
+Instruction  fetched
+Instruction mkdir cs333 fetched
+Child process was terminated.
+Instruction mkdir cs333 executed.
+Instruction touch cs333/lab1.txt fetched
+Child process was terminated.
+Instruction touch cs333/lab1.txt executed.
+Instruction  fetched
+Instruction ls fetched
+Child process was terminated.
+Instruction ls executed.
+Instruction  fetched
+Instruction cd ~/cs333 fetched
+directory changed to /home/arsanuos/cs333
+Instruction cd ~/cs333 executed.
+Instruction  fetched
+Instruction pwd fetched
+Child process was terminated.
+Instruction pwd executed.
+Instruction cd ../ fetched
+directory changed to /home/arsanuos
+Instruction cd ../ executed.
+Instruction cd ~ fetched
+directory changed to /home/arsanuos
+Instruction cd ~ executed.
+Instruction  fetched
+Instruction wc cs333/lab1.txt fetched
+Child process was terminated.
+Instruction wc cs333/lab1.txt executed.
+Instruction cat cs333/lab1.txt fetched
+Child process was terminated.
+Instruction cat cs333/lab1.txt executed.
+Instruction ls fetched
+Child process was terminated.
+Instruction ls executed.
+Instruction pwd fetched
+Child process was terminated.
+Instruction pwd executed.
+Instruction gedit fetched
+Child process was terminated.
+Instruction gedit executed.
+Instruction echo $PATH fetched
+Instruction echo 345 executed.
+Instruction  fetched
+Instruction  fetched
+Instruction echo $HOME fetched
+Instruction echo 65 executed.
+Instruction  fetched
+Instruction #this is a comment fetched
+Instruction #this is a comment executed.
+Instruction  fetched
+Instruction x=5 fetched
+Instruction x=5 executed.
+Instruction echo $x fetched
+Instruction echo 5 executed.
+Instruction  fetched
+Instruction y=$x\6 fetched
+Instruction y=5\6 executed.
+Instruction echo $y fetched
+Instruction echo 5\6 executed.
+Instruction  fetched
+Instruction ls fetched
+Child process was terminated.
+Instruction ls executed.
+Instruction cd /usr/$x/$y fetched
+directory changed to /home/arsanuos
+Instruction cd /usr/5/5\6 executed.
+Instruction ls fetched
+Child process was terminated.
+Instruction ls executed.
+Instruction exit fetched
+directory changed to /home/arsanuos
+Instruction ls fetched
+Child process was terminated.
+Instruction ls executed.
+Instruction ls -al fetched
+Child process was terminated.
+Instruction ls -al executed.
+Instruction ls -a -l fetched
+Child process was terminated.
+Instruction ls -a -l executed.
+Instruction /bin/ls -l -a fetched
+Child process was terminated.
+Instruction /bin/ls -l -a executed.
+Instruction /bin/ls     -l fetched
+Child process was terminated.
+Instruction /bin/ls     -l executed.
+Instruction  fetched
+Instruction  fetched
+Instruction HOME=65 fetched
+Instruction HOME=65 executed.
+Instruction PATH =345 fetched
+Instruction PATH =345 executed.
+Instruction  fetched
+Instruction  fetched
+Instruction ps fetched
+Child process was terminated.
+Instruction ps executed.
+Instruction bin/ps fetched
+Child process was terminated.
+Instruction bin/ps executed.
+Instruction  fetched
+Instruction mkdir cs333 fetched
+Child process was terminated.
+Instruction mkdir cs333 executed.
+Instruction touch cs333/lab1.txt fetched
+Child process was terminated.
+Instruction touch cs333/lab1.txt executed.
+Instruction  fetched
+Instruction ls fetched
+Child process was terminated.
+Instruction ls executed.
+Instruction  fetched
+Instruction cd ~/cs333 fetched
+directory changed to /home/arsanuos/cs333
+Instruction cd ~/cs333 executed.
+Instruction  fetched
+Instruction pwd fetched
+Child process was terminated.
+Instruction pwd executed.
+Instruction cd ../ fetched
+directory changed to /home/arsanuos
+Instruction cd ../ executed.
+Instruction cd ~ fetched
+directory changed to /home/arsanuos
+Instruction cd ~ executed.
+Instruction  fetched
+Instruction wc cs333/lab1.txt fetched
+Child process was terminated.
+Instruction wc cs333/lab1.txt executed.
+Instruction cat cs333/lab1.txt fetched
+Child process was terminated.
+Instruction cat cs333/lab1.txt executed.
+Instruction ls fetched
+Child process was terminated.
+Instruction ls executed.
+Instruction pwd fetched
+Child process was terminated.
+Instruction pwd executed.
+Instruction gedit fetched
+Child process was terminated.
+Instruction gedit executed.
+Instruction echo $PATH fetched
+Instruction echo 345 executed.
+Instruction  fetched
+Instruction  fetched
+Instruction echo $HOME fetched
+Instruction echo 65 executed.
+Instruction  fetched
+Instruction #this is a comment fetched
+Instruction #this is a comment executed.
+Instruction  fetched
+Instruction x=5 fetched
+Instruction x=5 executed.
+Instruction echo $x fetched
+Instruction echo 5 executed.
+Instruction  fetched
+Instruction y=$x\6 fetched
+Instruction y=5\6 executed.
+Instruction echo $y fetched
+Instruction echo 5\6 executed.
+Instruction  fetched
+Instruction ls fetched
+Child process was terminated.
+Instruction ls executed.
+Instruction cd /usr/$x/$y fetched
+directory changed to /home/arsanuos
+Instruction cd /usr/5/5\6 executed.
+Instruction ls fetched
+Child process was terminated.
+Instruction ls executed.
+Instruction exit fetched
+directory changed to /home/arsanuos
+Instruction ls fetched
+Child process was terminated.
+Instruction ls executed.
+Instruction ls -al fetched
+Child process was terminated.
+Instruction ls -al executed.
+Instruction ls -a -l fetched
+Child process was terminated.
+Instruction ls -a -l executed.
+Instruction /bin/ls -l -a fetched
+Child process was terminated.
+Instruction /bin/ls -l -a executed.
+Instruction /bin/ls     -l fetched
+Child process was terminated.
+Instruction /bin/ls     -l executed.
+Instruction  fetched
+Instruction  fetched
+Instruction HOME=65 fetched
+Instruction HOME=65 executed.
+Instruction PATH =345 fetched
+Instruction PATH =345 executed.
+Instruction  fetched
+Instruction  fetched
+Instruction ps fetched
+Child process was terminated.
+Instruction ps executed.
+Instruction bin/ps fetched
+Child process was terminated.
+Instruction bin/ps executed.
+Instruction  fetched
+Instruction mkdir cs333 fetched
+Child process was terminated.
+Instruction mkdir cs333 executed.
+Instruction touch cs333/lab1.txt fetched
+Child process was terminated.
+Instruction touch cs333/lab1.txt executed.
+Instruction  fetched
+Instruction ls fetched
+Child process was terminated.
+Instruction ls executed.
+Instruction  fetched
+Instruction cd ~/cs333 fetched
+directory changed to /home/arsanuos/cs333
+Instruction cd ~/cs333 executed.
+Instruction  fetched
+Instruction pwd fetched
+Child process was terminated.
+Instruction pwd executed.
+Instruction cd ../ fetched
+directory changed to /home/arsanuos
+Instruction cd ../ executed.
+Instruction cd ~ fetched
+directory changed to /home/arsanuos
+Instruction cd ~ executed.
+Instruction  fetched
+Instruction wc cs333/lab1.txt fetched
+Child process was terminated.
+Instruction wc cs333/lab1.txt executed.
+Instruction cat cs333/lab1.txt fetched
+Child process was terminated.
+Instruction cat cs333/lab1.txt executed.
+Instruction ls fetched
+Child process was terminated.
+Instruction ls executed.
+Instruction pwd fetched
+Child process was terminated.
+Instruction pwd executed.
+Instruction gedit fetched
+Child process was terminated.
+Instruction gedit executed.
+Instruction echo $PATH fetched
+Instruction echo 345 executed.
+Instruction  fetched
+Instruction  fetched
+Instruction echo $HOME fetched
+Instruction echo 65 executed.
+Instruction  fetched
+Instruction #this is a comment fetched
+Instruction #this is a comment executed.
+Instruction  fetched
+Instruction x=5 fetched
+Instruction x=5 executed.
+Instruction echo $x fetched
+Instruction echo 5 executed.
+Instruction  fetched
+Instruction y=$x\6 fetched
+Instruction y=5\6 executed.
+Instruction echo $y fetched
+Instruction echo 5\6 executed.
+Instruction  fetched
+Instruction ls fetched
+Child process was terminated.
+Instruction ls executed.
+Instruction cd /usr/$x/$y fetched
+directory changed to /home/arsanuos
+Instruction cd /usr/5/5\6 executed.
+Instruction ls fetched
+Child process was terminated.
+Instruction ls executed.
+Instruction exit fetched
+directory changed to /home/arsanuos
+Instruction ls fetched
+Child process was terminated.
+Instruction ls executed.
+Instruction ls -al fetched
+Child process was terminated.
+Instruction ls -al executed.
+Instruction ls -a -l fetched
+Child process was terminated.
+Instruction ls -a -l executed.
+Instruction /bin/ls -l -a fetched
+Child process was terminated.
+Instruction /bin/ls -l -a executed.
+Instruction /bin/ls     -l fetched
+Child process was terminated.
+Instruction /bin/ls     -l executed.
+Instruction  fetched
+Instruction  fetched
+Instruction HOME=65 fetched
+Instruction HOME=65 executed.
+Instruction PATH =345 fetched
+Instruction PATH =345 executed.
+Instruction  fetched
+Instruction  fetched
+Instruction ps fetched
+Child process was terminated.
+Instruction ps executed.
+Instruction bin/ps fetched
+Child process was terminated.
+Instruction bin/ps executed.
+Instruction  fetched
+Instruction mkdir cs333 fetched
+Child process was terminated.
+Instruction mkdir cs333 executed.
+Instruction touch cs333/lab1.txt fetched
+Child process was terminated.
+Instruction touch cs333/lab1.txt executed.
+Instruction  fetched
+Instruction ls fetched
+Child process was terminated.
+Instruction ls executed.
+Instruction  fetched
+Instruction cd ~/cs333 fetched
+directory changed to /home/arsanuos/cs333
+Instruction cd ~/cs333 executed.
+Instruction  fetched
+Instruction pwd fetched
+Child process was terminated.
+Instruction pwd executed.
+Instruction cd ../ fetched
+directory changed to /home/arsanuos
+Instruction cd ../ executed.
+Instruction cd ~ fetched
+directory changed to /home/arsanuos
+Instruction cd ~ executed.
+Instruction  fetched
+Instruction wc cs333/lab1.txt fetched
+Child process was terminated.
+Instruction wc cs333/lab1.txt executed.
+Instruction cat cs333/lab1.txt fetched
+Child process was terminated.
+Instruction cat cs333/lab1.txt executed.
+Instruction ls fetched
+Child process was terminated.
+Instruction ls executed.
+Instruction pwd fetched
+Child process was terminated.
+Instruction pwd executed.
+Instruction gedit fetched
+Child process was terminated.
+Instruction gedit executed.
+Instruction echo $PATH fetched
+Instruction echo 345 executed.
+Instruction  fetched
+Instruction  fetched
+Instruction echo $HOME fetched
+Instruction echo 65 executed.
+Instruction  fetched
+Instruction #this is a comment fetched
+Instruction #this is a comment executed.
+Instruction  fetched
+Instruction x=5 fetched
+Instruction x=5 executed.
+Instruction echo $x fetched
+Instruction echo 5 executed.
+Instruction  fetched
+Instruction y=$x\6 fetched
+Instruction y=5\6 executed.
+Instruction echo $y fetched
+Instruction echo 5\6 executed.
+Instruction  fetched
+Instruction ls fetched
+Child process was terminated.
+Instruction ls executed.
+Instruction cd /usr/$x/$y fetched
+directory changed to /home/arsanuos
+Instruction cd /usr/5/5\6 executed.
+Instruction ls fetched
+Child process was terminated.
+Instruction ls executed.
+Instruction exit fetched
+directory changed to /home/arsanuos
+Instruction ls fetched
+Child process was terminated.
+Instruction ls executed.
+Instruction echo $x fetched
+Instruction echo executed.
+directory changed to /home/arsanuos
+directory changed to /home/arsanuos
+Instruction ls fetched
+Child process was terminated.
+Instruction ls executed.
+Instruction ls -al fetched
+Child process was terminated.
+Instruction ls -al executed.
+Instruction ls -a -l fetched
+Child process was terminated.
+Instruction ls -a -l executed.
+Instruction /bin/ls -l -a fetched
+Child process was terminated.
+Instruction /bin/ls -l -a executed.
+Instruction /bin/ls     -l fetched
+Child process was terminated.
+Instruction /bin/ls     -l executed.
+Instruction  fetched
+Instruction  fetched
+Instruction HOME=65 fetched
+Instruction HOME=65 executed.
+Instruction PATH =345 fetched
+Instruction PATH =345 executed.
+Instruction  fetched
+Instruction  fetched
+Instruction ps fetched
+Child process was terminated.
+Instruction ps executed.
+Instruction bin/ps fetched
+Child process was terminated.
+Instruction bin/ps executed.
+Instruction  fetched
+Instruction mkdir cs333 fetched
+Child process was terminated.
+Instruction mkdir cs333 executed.
+Instruction touch cs333/lab1.txt fetched
+Child process was terminated.
+Instruction touch cs333/lab1.txt executed.
+Instruction  fetched
+Instruction ls fetched
+Child process was terminated.
+Instruction ls executed.
+Instruction  fetched
+Instruction cd ~/cs333 fetched
+directory changed to /home/arsanuos/cs333
+Instruction cd ~/cs333 executed.
+Instruction  fetched
+Instruction pwd fetched
+Child process was terminated.
+Instruction pwd executed.
+Instruction cd ../ fetched
+directory changed to /home/arsanuos
+Instruction cd ../ executed.
+Instruction cd ~ fetched
+directory changed to /home/arsanuos
+Instruction cd ~ executed.
+Instruction  fetched
+Instruction wc cs333/lab1.txt fetched
+Child process was terminated.
+Instruction wc cs333/lab1.txt executed.
+Instruction cat cs333/lab1.txt fetched
+Child process was terminated.
+Instruction cat cs333/lab1.txt executed.
+Instruction ls fetched
+Child process was terminated.
+Instruction ls executed.
+Instruction pwd fetched
+Child process was terminated.
+Instruction pwd executed.
+Instruction gedit fetched
+Child process was terminated.
+Instruction gedit executed.
+Instruction echo $PATH fetched
+Instruction echo 345 executed.
+Instruction  fetched
+Instruction  fetched
+Instruction echo $HOME fetched
+Instruction echo 65 executed.
+Instruction  fetched
+Instruction #this is a comment fetched
+Instruction #this is a comment executed.
+Instruction  fetched
+Instruction x=5 fetched
+Instruction x=5 executed.
+Instruction echo $x fetched
+Instruction echo 5 executed.
+Instruction  fetched
+Instruction y=$x\6 fetched
+Instruction y=5\6 executed.
+Instruction echo $y fetched
+Instruction echo 5\6 executed.
+Instruction  fetched
+Instruction ls fetched
+Child process was terminated.
+Instruction ls executed.
+Instruction cd /usr/$x/$y fetched
+directory changed to /home/arsanuos
+Instruction cd /usr/5/5\6 executed.
+Instruction ls fetched
+Child process was terminated.
+Instruction ls executed.
+Instruction exit fetched
+directory changed to /home/arsanuos
+Instruction ls fetched
+Child process was terminated.
+Instruction ls executed.
+Instruction ch ~ fetched
+Child process was terminated.
+Instruction ch ~ executed.
+Instruction cd ~ fetched
+directory changed to /home/arsanuos
+Instruction cd ~ executed.
+Instruction ls fetched
+Child process was terminated.
+Instruction ls executed.

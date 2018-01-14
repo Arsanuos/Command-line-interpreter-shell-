@@ -1,0 +1,47 @@
+ls
+ls -al
+ls -a -l
+/bin/ls -l -a
+        /bin/ls     -l
+
+
+HOME=65
+PATH =345
+
+
+ps
+bin/ps 
+
+mkdir cs333
+touch cs333/lab1.txt
+
+ls
+
+cd ~/cs333
+
+pwd
+cd ../
+cd ~
+
+wc cs333/lab1.txt
+cat cs333/lab1.txt
+ls
+pwd
+gedit
+echo $PATH
+
+
+echo $HOME
+
+#this is a comment
+
+x=5
+echo $x
+
+y=$x\6
+echo $y
+
+ls
+cd /usr/$x/$y
+ls
+exit

@@ -1,0 +1,86 @@
+ls
+ls -al
+ls -a -l
+/bin/ls -l -a
+        /bin/ls     -l 
+prinenv
+printenv
+export x='zew      ffgddg'
+echo "$x"
+x=5
+echo $x
+ps
+bin/ps
+pwd
+mkdir cs333
+cd ~/cs333
+pwd
+cd ../
+cd ~
+wc cs333/lab1.txt
+cat cs333/lab1.txt
+echo "hello world"
+echo              	"hello           world"
+history
+gedit&
+ps
+gedit
+ls
+ls -al
+ls -a -l
+/bin/ls -l -a
+        /bin/ls     -l 
+ls
+ls -al
+ls -a -l
+/bin/ls -l -a
+        /bin/ls     -l 
+x=5
+x='5'
+x="5"
+echo $x    $x
+ps
+bin/ps
+pwd
+touch cs333/lab1.txt
+cd ~/cs333
+pwd
+cd ../
+cd ~
+wc cs333/lab1.txt
+cat cs333/lab1.txt
+echo "hello world"
+echo              	"hello           world"
+history
+ls
+ls -al
+ls -a -l
+#comment
+/bin/ls -l -a
+        /bin/ls     -l 
+ps
+x="ana       aho"
+echo $x
+echo "$x"
+echo '$x'
+bin/ps
+pwd
+touch cs333/lab1.txt
+cd ~/cs333
+pwd
+cd ../
+cd ~
+cd -
+cd -
+wc cs333/lab1.txt
+cat cs333/lab1.txt
+echo "hello world"
+echo              	"hello           world"
+echo "dsafdggg'
+z="non    onon"
+h="-l -a"
+f="-l"
+ls $f
+ls $h
+ls $h$f
+exit
